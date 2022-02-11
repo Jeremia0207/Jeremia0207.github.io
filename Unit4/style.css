@@ -1,0 +1,37 @@
+h1 {
+  background-color: black;
+  color: gold;
+  font-family: "Copperplate", "Papyrus", fantasy;
+}
+
+h2 {
+  background-color: crimson;
+  color: cornsilk;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+  background-color: gold;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  background-color: grey;
+  color: orange;
+  font-family: cursive; 
+}
+
+body {
+  background-color: blue;
+  width: 80%; 
+}
+
+main {
+  background-color: darkgreen;
+}
+
+footer {
+  font-style: italic;
+  background-color: teal; 
+}
