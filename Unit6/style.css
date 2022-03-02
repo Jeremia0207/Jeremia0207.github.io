@@ -1,0 +1,36 @@
+.gaming {
+  height: 300px;
+}
+div{
+  background-color: black;
+  color: yellow;
+  
+}
+body{
+  background-image: url("images/back.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#wrapper {
+ width:60%;
+ margin: auto;
+ margin-top: 30px;
+}
+
+li{
+  list-style-image: url("images/terraria.png")
+}
+
+ul{
+  border: 10px solid;
+  padding: 60px;
+  border-image: url("images/borderimg.jpg") 30 round;
+}
+
+.specialborder{
+  border: 10px solid;
+  padding: 10px;
+  border-image: url("images/borderimg.jpg") 30 round;
+  
+}
