@@ -32,5 +32,4 @@ ul{
   border: 10px solid;
   padding: 10px;
   border-image: url("images/borderimg.jpg") 30 round;
-  position: fixed;
 }
