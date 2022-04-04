@@ -1,0 +1,22 @@
+#content, #main,.site-content, #primary, {
+  display: none;
+}
+ul {
+  display: none;
+}
+nav {
+  display: none;
+}
+img{
+  display: none
+}
+p{
+  font-size: 1.25em;
+  text: black;
+}
+
+@mediaprint {
+  a::after{
+    content: " (" attr (href) ") " 
+  }
+} 
